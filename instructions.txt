@@ -1,0 +1,16 @@
+5:
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git add .
+
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git commit -m "Commit for step 5"
+
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git push
+
+
+
+6:
+
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git add .
+
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git commit -m "Commit for step 6"
+
+C:\Users\marco\OneDrive\Desktop\2. Entornos\Exercise_session_8>git push
